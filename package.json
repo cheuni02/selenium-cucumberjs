@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "cbt_tunnels": "^0.1.0",
+    "cbt_tunnels": "^1.2.2",
     "chai": "^4.2.0",
     "chromedriver": "^74.0.0",
     "cucumber": "^2.3.1",
